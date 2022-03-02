@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+.container{
+    background-color: white;
+    width: 500px;
+    height: 650px;
+    margin: auto;
+}
+.topbox{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.upperleft{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    margin: 0;
+}
+.htmlicon{
+    font-size: 32px;
+}
+.upperright{
+    font-size: 25px;
+}
+.image{
+    margin: auto;
+    margin-top: 10px;
+}
+
+.bottom-icon{
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom-text{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
